@@ -1,0 +1,10 @@
+name = SSE comments
+description = Integrate "server-sent events" technology to drupal comments.
+core = 7.x
+package = "SSE"
+
+
+files[] = post.inc
+
+
+
